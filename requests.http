@@ -1,1 +1,21 @@
+GET http://localhost:3000/api
 
+###
+
+GET http://localhost:3000/api/hello
+
+###
+
+GET http://localhost:3000/api/signup
+
+###
+
+GET http://localhost:3000/api/hello?age=10&name=Alice
+
+###
+
+GET http://localhost:3000/api/send/johndoe
+
+###
+
+GET http://localhost:3000/api/send/kia
