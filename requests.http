@@ -1,1 +1,14 @@
+GET http://localhost:3000/api
 
+###
+
+GET http://localhost:3000/api/hello
+
+###
+
+GET http://localhost:3000/api/signup
+
+###
+
+
+GET http://localhost:3000/api/hello?class=309&name=Dan
